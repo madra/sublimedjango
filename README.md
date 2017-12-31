@@ -1,7 +1,5 @@
 
-#Forked from
-
-# Django support for Sublime Text 2/3
+# Django autocomplete for Sublime Text 2/3
 
 
 
@@ -11,7 +9,7 @@ Using [Package Control](https://packagecontrol.io/installation):
 
 - Open the Command Pallete (`ctrl+shift+P` or `cmd+shift+P`).
 - Type “Install Package” and hit return.
-- Type “Djaneiro” and hit return.
+- Type “sublimedjango” and hit return.
 
 ## Snippets for Django templates
 
