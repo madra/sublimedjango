@@ -1,6 +1,9 @@
+
+#Forked from
+
 # Django support for Sublime Text 2/3
 
-[![Join the chat at https://gitter.im/squ1b3r/Djaneiro](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/squ1b3r/Djaneiro?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ## Installation
 
@@ -65,10 +68,10 @@ Using [Package Control](https://packagecontrol.io/installation):
 
 | Abbreviation | Tag                                     |
 |--------------|-----------------------------------------|
-| mauto        | ``models.AutoField()``                  |
-| mbauto       | ``models.BigAutoField()``               |
-| mbigint      | ``models.BigIntegerField()``            |
-| mbool        | ``models.BooleanField()``               |
+| AutoField       | ``models.AutoField()``                  |
+| BigAutoField       | ``models.BigAutoField()``               |
+| BigIntegerField      | ``models.BigIntegerField()``            |
+| BooleanField        | ``models.BooleanField()``               |
 | mchar        | ``models.CharField()``                  |
 | mcoseint     | ``models.CommaSeparatedIntegerField()`` |
 | mdate        | ``models.DateField()``                  |
